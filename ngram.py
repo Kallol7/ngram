@@ -24,7 +24,7 @@
 import numpy as np
 
 class NGram:
-    """ An optized way to create n-gram only using numpy
+    """ An optimized way to create n-gram only using numpy.
     
     Input: 
         "A brown fox"
